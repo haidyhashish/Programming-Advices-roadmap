@@ -4,7 +4,8 @@ This repository documents my learning path with *Dr. Mohammed Abu-Hadhoud's Road
 ## 🖼 Roadmap Image
 Here is the roadmap I am following:  
 
-![Roadmap Image]("E:\Documents\self study\road maps\ProgrammingAdvices - RoadMap.png")
+![Roadmap Image]("![Uploading ProgrammingAdvices - RoadMap.png…]()
+")
 
 ---
 
@@ -38,14 +39,3 @@ Here is the roadmap I am following:
 | 25 | RESTful API on .NET Core | Backend | [repo link](https://github.com/YOUR_USERNAME/roadmap-dotnetcore-rest-api) | ⏳ |
 | 26 | Specialization: Web Road Map | Specialization | [repo link](https://github.com/YOUR_USERNAME/roadmap-specialization-web) | ⏳ |
 
----
-
-## ✅ Progress Tracking
-- [ ] Foundations (1–2)  
-- [ ] Algorithms (1–6)  
-- [ ] C++ (1–2)  
-- [ ] OOP (1–2 + OOP in C#)  
-- [ ] Databases (SQL + T-SQL + DB Project)  
-- [ ] C# (1–2) + Windows Services  
-- [ ] RESTful API (.NET Core)  
-- [ ] Specialization (Web)  
