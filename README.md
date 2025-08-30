@@ -2,10 +2,7 @@
 This repository documents my learning path with *Dr. Mohammed Abu-Hadhoud's Roadmap* toward becoming a *Fullstack.NET Developer*.
 
 ## 🖼 Roadmap Image
-Here is the roadmap I am following:  
-
-![Roadmap Image]("![Uploading ProgrammingAdvices - RoadMap.png…]()
-")
+![Roadmap](assets/roadmap.png)
 
 ---
 
