@@ -9,7 +9,7 @@ This repository documents my learning path with *Dr. Mohammed Abu-Hadhoud's Road
 ## 📚 Courses Index
 | #  | Course Name | Category | Repository | Status |
 |----|-------------|----------|------------|--------|
-| 01 | Foundations Level 1 | Foundations | [repo link](https://github.com/YOUR_USERNAME/roadmap-foundations-level-1) | ⏳ |
+| 01 | Foundations Level 1 | Foundations | [repo link](https://github.com/haidyhashish/01---Programming-Foundations---Level-1) | ⏳ |
 | 02 | Algorithms Level 1 | Algorithms | [repo link](https://github.com/YOUR_USERNAME/roadmap-algorithms-level-1) | ⏳ |
 | 03 | C/C++ Level 1 | C++ | [repo link](https://github.com/YOUR_USERNAME/roadmap-cpp-level-1) | ⏳ |
 | 04 | Advanced Solutions for Algorithms Level 1 | Algorithms | [repo link](https://github.com/YOUR_USERNAME/roadmap-advanced-algorithms-s1) | ⏳ |
